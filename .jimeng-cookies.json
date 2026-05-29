@@ -1,0 +1,282 @@
+[
+  {
+    "name": "s_v_web_id",
+    "value": "verify_mnylkgu0_JPeJkFsS_eLCR_4iWX_AD43_6HuHp2kustjq",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1781353680,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fpk1",
+    "value": "6ffb19e30792651db4280787a7a0241ebb19293594cceecc6e79f428350a91161a900c42627d8dd2997dec29be527932",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1807705684.141005,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "passport_csrf_token",
+    "value": "0803b43abc59844a65baeafa2e827c2e",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1781354171.296234,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "passport_csrf_token_default",
+    "value": "0803b43abc59844a65baeafa2e827c2e",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1781354171.296449,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "DREAMINA_CLI_TOP_BAR_CLOSED",
+    "value": "true",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1807706705,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "n_mh",
+    "value": "Mii8WsdCX872kAntiemVsKLXf3V0xkDzSmxwb8I_pKQ",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1786542733.92903,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sid_guard",
+    "value": "ff2d60414e15fdcf25978c23bdb7f311%7C1776174733%7C31536000%7CWed%2C+14-Apr-2027+13%3A52%3A13+GMT",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807278733.929112,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uid_tt",
+    "value": "5c933b71dc8e8c921c663b07db194949",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.929213,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uid_tt_ss",
+    "value": "5c933b71dc8e8c921c663b07db194949",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.929278,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid_tt",
+    "value": "ff2d60414e15fdcf25978c23bdb7f311",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.92953,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sessionid",
+    "value": "ff2d60414e15fdcf25978c23bdb7f311",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.929627,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sessionid_ss",
+    "value": "ff2d60414e15fdcf25978c23bdb7f311",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.929704,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "session_tlb_tag",
+    "value": "sttt%7C19%7C_y1gQU4V_c8ll4wjvbfzEf_________nwqMr9GM4BIcIEKZ9l4R1bqRKVn8Xeu2Tirl3PBjMGWw%3D",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.929777,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "is_staff_user",
+    "value": "false",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.92986,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "has_biz_token",
+    "value": "false",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.929953,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sid_ucp_v1",
+    "value": "1.0.0-KGMwZWQ1MjU4OWJkODM1NTQ4NWYxYWU2ZTZmNzI3NjYzYjhkZGZiZDYKHwj8kqCBoa3aBhCNjfnOBhifrR8gDDCZhYTNBjgIQCYaAmxxIiBmZjJkNjA0MTRlMTVmZGNmMjU5NzhjMjNiZGI3ZjMxMQ",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.930031,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ssid_ucp_v1",
+    "value": "1.0.0-KGMwZWQ1MjU4OWJkODM1NTQ4NWYxYWU2ZTZmNzI3NjYzYjhkZGZiZDYKHwj8kqCBoa3aBhCNjfnOBhifrR8gDDCZhYTNBjgIQCYaAmxxIiBmZjJkNjA0MTRlMTVmZGNmMjU5NzhjMjNiZGI3ZjMxMQ",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1807710733.930124,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "user_spaces_idc",
+    "value": "{\"7611253706939565065\":\"lf\"}",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1808880233.226473,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dm_auid",
+    "value": "eEMSxyAimjhkAX/ACNqRBUdxnWwdD6xftjngoyKchtE=",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1810734735.469752,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uifid_temp",
+    "value": "6d45df9c2aeb43c3ce708fb1b53b245a3617d9c65d6d569ab6728baa51608cbbee3a07c4cddae5f04ded2cd3acb5585bbc0dfd0db0d5d9ebd9ea419981740924b167dfa9e24317a7108af65308d655a0205dcbd9b4896ac25112ff17a7ed99ba83d31a3f55169dda081280f090e8087c",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1810734735.47025,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uifid",
+    "value": "6d45df9c2aeb43c3ce708fb1b53b245a3617d9c65d6d569ab6728baa51608cbbee3a07c4cddae5f04ded2cd3acb5585b5a49049c1f1ad76a7959c74569d9474280889c363bf909862ade5154462f2edee2b0af3bdf218812a14df37a15e3e4af4d915eb8bdd3a98eaaf7d216247cd99f69a47c30df36a0f9e2ff013d083b6ba77203ac6ce0137cc58a4a4e76c7844e3d57c8bda44596401e2c8f92fc9e2aad4c7a3d6e01b671f2050fe262c4da98f0c0a4f84137b09cdc78d1b91f27531cf504",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1810734735.678921,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DREAMINA_THEME",
+    "value": "light",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_v2_spipe_web_id",
+    "value": "7633633509805916214",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1808880235.296909,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_tea_web_id",
+    "value": "7628590648657446450",
+    "domain": "jimeng.jianying.com",
+    "path": "/",
+    "expires": 1777430635.29769,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "odin_tt",
+    "value": "b6b89224c3310a77863918a437100fd64cab06e976ed8679e21183ab18f645346b8c15e312daa1ef756fed6c4a9ef10b5e67f59d1e4fc7824d674af79dec7b15",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1808880234.600532,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttwid",
+    "value": "1|7OVwk0haQB4woA9IqsVIodGpS8i_8RnI9PfMR0BLpqE|1777344234|2aff9d0a1c85979e91221f2b1ffe6f51391c0601f2fc8b48bd05920527ed952c",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1808880235.297317,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetsid",
+    "value": "1c2da50042ab11f182909dfee944e1e4",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1777430635,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "6056d8c037fd11f19dc72d323dfc8234",
+    "domain": ".jianying.com",
+    "path": "/",
+    "expires": 1811040235,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
